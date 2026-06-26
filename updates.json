@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "v4.4.0",
-      "download-url": "https://ghproxy.net/https://raw.githubusercontent.com/gaoheyang/SPK/refs/heads/main/SPK_v4.3.7z",
+      "download-url": "https://raw.giteeusercontent.com/gaoheyang/SPK/raw/main/SPK_v4.3.7z?metadata=eyJyIjoibWFpbiIsImZwIjoiU1BLX3Y0LjMuN3oiLCJ1aWQiOjIxMjU0MTAsInBpZCI6NDg3NjA2MzQsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tMTB0LTA0MSIsInJwIjoicmVwb3MvMTcvZWYvMTdlZjY2ZjkxNzdhZTJkYzhkMzAwM2I4YTNiOGMzMWJmYjNiMDYzMjBlZWNjZTc2NDlhYTU3ZDBmN2YxMmVhMi5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc4MjQ4NDgwMH0&signature=tiL1zXFDYAbjHNtzUSj6ngXEGLPJhkwljRRB-pWVCuE",
       "changelog": "<h3>Version 4.4.0</h3><ul><li>New feature: Auto-update checking</li><li>Improved UI performance</li><li>Bug fixes</li></ul>",
       "mandatory-update": false
     }

@@ -9,14 +9,14 @@
     },
     "osx": {
       "open-url": "",
-      "latest-version": "v5.0.0",
+      "latest-version": "v4.4.0",
       "download-url": "",
       "changelog": "",
       "mandatory-update": false
     },
     "linux": {
       "open-url": "",
-      "latest-version": "v5.0.0",
+      "latest-version": "v4.4.0",
       "download-url": "",
       "changelog": "",
       "mandatory-update": false

@@ -4,7 +4,7 @@
       "open-url": "",
       "latest-version": "v4.4.0",
       "download-url": "https://ghproxy.com/https://raw.githubusercontent.com/gaoheyang/SPK/refs/heads/main/SPK_v4.3.7z",
-      "changelog": "<h3>Version 5.0.0</h3><ul><li>New feature: Auto-update checking</li><li>Improved UI performance</li><li>Bug fixes</li></ul>",
+      "changelog": "<h3>Version 4.4.0</h3><ul><li>New feature: Auto-update checking</li><li>Improved UI performance</li><li>Bug fixes</li></ul>",
       "mandatory-update": false
     },
     "osx": {

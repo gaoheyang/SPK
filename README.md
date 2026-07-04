@@ -1,7 +1,7 @@
 
 
 
-> 欢迎登入 Serial Port Kits(简称SPK)官网 www.gqspark.top 免费下载试用。 新版本5.0正在内测，即将发布！新功能预览请看到最后
+> 欢迎登入 Serial Port Kits(简称SPK)官网 www.gqspark.top 免费下载试用。 新版本5.0已发布！新功能请看到最后
 
    # **1 概述**
 

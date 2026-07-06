@@ -2,9 +2,9 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "v5.0.0",
-      "download-url": "https://ghproxy.net/https://raw.githubusercontent.com/gaoheyang/SPK/refs/heads/main/SPK_v5.0.7z",
-      "changelog": "<h3>Version 5.0.0</h3><ul><li>集成 Lua 脚本引擎</li><li>新增帧组装器</li><li>新增3种新主题</li></ul>",
+      "latest-version": "v5.1.0",
+      "download-url": "https://ghproxy.net/https://raw.githubusercontent.com/gaoheyang/SPK/refs/heads/main/SPK_v5.1.7z",
+      "changelog": "<h3>Version 5.1.0</h3><ul><li>给多帧管理器模块添加指示器以指示其工作状态</li><li>修复了一些小问题</li></ul>",
       "mandatory-update": false
     }
   }

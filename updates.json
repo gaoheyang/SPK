@@ -2,9 +2,9 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "v5.2.0",
-      "download-url": "https://ghproxy.net/https://raw.githubusercontent.com/gaoheyang/SPK/refs/heads/main/SPK_v5.2.7z",
-      "changelog": "<h3>Version 5.2.0</h3><ul><li>更新了高亮器</li><li>修复自动检测设备插拔问题</li></ul>",
+      "latest-version": "v5.3.0",
+      "download-url": "https://ghproxy.net/https://raw.githubusercontent.com/gaoheyang/SPK/refs/heads/main/SPK_v5.3.7z",
+      "changelog": "<h3>Version 5.3.0</h3><ul><li>优化UI和用户体验</li><li>修复剩余使用天数提示信息不刷新问题</li><li>实时波形功能添加工作指示器，以指示其工作状态</li><li>添加了 SPK 使用手册，详细描述了 SPK 软件的各个功能</li></ul>",
       "mandatory-update": false
     }
   }

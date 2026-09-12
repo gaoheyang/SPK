@@ -2,9 +2,9 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "v5.3.0",
-      "download-url": "https://ghproxy.net/https://raw.githubusercontent.com/gaoheyang/SPK/refs/heads/main/SPK_v5.3.7z",
-      "changelog": "<h3>Version 5.3.0</h3><ul><li>优化UI和用户体验</li><li>修复剩余使用天数提示信息不刷新问题</li><li>实时波形功能添加工作指示器，以指示其工作状态</li><li>添加了 SPK 使用手册，详细描述了 SPK 软件的各个功能</li></ul>",
+      "latest-version": "v5.4.0",
+      "download-url": "https://ghproxy.net/https://raw.githubusercontent.com/gaoheyang/SPK/refs/heads/main/SPK_v5.4.7z",
+      "changelog": "<h3>Version 5.4.0</h3><ul><li>添加了多帧管理器Item拖拽预览功能</li><li>优化了多帧管理器UI</li><li>修复了波形控件缩放波形到最大时显示不连续问题</li><li>修复了删除波形数据时，没删光标对问题</li><li>优化了波形控件缩放逻辑和波形滑动体验</li><li>优化了波形控件波形滑动动画</li><li>重新设计了波形控件的时间轴，使其更易查看</li><li>添加波形控件通道名称可编辑功能</li><li>添加了波形控件保存和重放CSV文件时进度提示功能</li><li>添加了波形Y轴缩放功能</li><li>优化了高亮器的渲染速度</li</ul>",
       "mandatory-update": false
     }
   }

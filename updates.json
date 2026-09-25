@@ -2,9 +2,9 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "v5.4.0",
-      "download-url": "https://ghproxy.net/https://raw.githubusercontent.com/gaoheyang/SPK/refs/heads/main/SPK_v5.4.7z",
-      "changelog": "<h3>Version 5.4.0</h3><ul><li>添加了多帧管理器Item拖拽预览功能</li><li>优化了多帧管理器UI</li><li>修复了波形控件缩放波形到最大时显示不连续问题</li><li>修复了删除波形数据时，没删光标对问题</li><li>优化了波形控件缩放逻辑和波形滑动体验</li><li>优化了波形控件波形滑动动画</li><li>重新设计了波形控件的时间轴，使其更易查看</li><li>添加波形控件通道名称可编辑功能</li><li>添加了波形控件保存和重放CSV文件时进度提示功能</li><li>添加了波形Y轴缩放功能</li><li>优化了高亮器的渲染速度</li</ul>",
+      "latest-version": "v5.5.0",
+      "download-url": "https://ghproxy.net/https://raw.githubusercontent.com/gaoheyang/SPK/refs/heads/main/SPK_v5.5.7z",
+      "changelog": "<h3>Version 5.5.0</h3><ul><li>优化了波形控件ESC按键无法退出正在创建的光标对和选框的问题</li><li>修复了机器码在某些台式电脑上获取不稳定的问题。此项更新可能导致旧的license无法使用,请购买了SPK的用户联系我换取新的license,给您带来的不便,我们深表歉意！</li><li>其他优化</li></ul>",
       "mandatory-update": false
     }
   }

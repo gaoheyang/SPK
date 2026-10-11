@@ -2,9 +2,9 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "v5.5.0",
-      "download-url": "https://ghproxy.net/https://raw.githubusercontent.com/gaoheyang/SPK/refs/heads/main/SPK_v5.5.7z",
-      "changelog": "<h3>Version 5.5.0</h3><ul><li>优化了波形控件ESC按键无法退出正在创建的光标对和选框的问题</li><li>修复了机器码在某些台式电脑上获取不稳定的问题。此项更新可能导致旧的license无法使用,请购买了SPK的用户联系我换取新的license,给您带来的不便,我们深表歉意！</li><li>其他优化</li></ul>",
+      "latest-version": "v5.6.0",
+      "download-url": "https://ghproxy.net/https://raw.githubusercontent.com/gaoheyang/SPK/refs/heads/main/SPK_v5.6.7z",
+      "changelog": "<h3>Version 5.6.0</h3><ul><li>新增 Lua 脚本引擎对接波形控件功能,实现lua脚本解析帧数据并绘制在波形控件上</li><li>新增 Lua 脚本引擎自动化测试功能</li><li>Lua 面板新增工作模式选择：帧解析器模式/脚本执行器模式</li><li>标题栏About 菜单 新增 Lua 脚本 API 说明指南</li><li>标题栏 About 菜单新增 键盘快捷键 菜单项，展示软件支持的快捷键</li></ul>",
       "mandatory-update": false
     }
   }

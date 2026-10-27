@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "v5.7.0",
-      "download-url": "https://ghproxy.net/https://raw.githubusercontent.com/gaoheyang/SPK/refs/heads/main/SPK_v5.7.7z",
+      "download-url": "https://raw.githubusercontent.com/gaoheyang/SPK/refs/heads/main/SPK_v5.7.7z",
       "changelog": "<h3>Version 5.7.0</h3><ul><li>修复显示中文乱码问题</li><li>新增FireWater和JustFloat协议解析Lua脚本</li></ul>",
       "mandatory-update": false
     }
